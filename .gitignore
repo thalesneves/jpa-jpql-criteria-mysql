@@ -1,0 +1,11 @@
+HELP.md
+target/
+.settings/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+.apt_generated
+.classpath
+.project
+.settings
